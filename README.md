@@ -18,7 +18,7 @@ Partner on full-stack web projects that balance elegance and functionality.
 
 Contribute to open-source initiatives with real-world social impact.
 
-Architect scalable software solutions for critical challenges in healthcare, safety, and sustainability.
+Architect scalable software solutions for critical healthcare, safety, and sustainability challenges.
 
 🛠️ Technical Toolbox
 
